@@ -1,0 +1,126 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    color: black;
+    font-family: 'Noto Sans', 'Courier New', Courier, monospace;
+    align-items: center;
+}
+
+.centro {
+    text-align: center;
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: grey;
+    color: white;
+    align-self: center;
+    justify-content: center;
+    margin: 0px 400px;
+}
+
+.botoes > #btn-branco {
+    background-color: white;
+    color: black;
+    padding: 10px;
+    border: 10px;
+    border-radius: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.botoes > #btn-azul {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    border: 10px;
+    border-radius: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.botoes > #btn-vermelho {
+    background-color: red;
+    color: white;
+    padding: 10px;
+    border: 10px;
+    border-radius: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.botoes > #btn-amarelo {
+    background-color: yellow;
+    color: black;
+    padding: 10px;
+    border: 10px;
+    border-radius: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.botoes > #btn-verde {
+    background-color: green;
+    color: white;
+    padding: 10px;
+    border: 10px;
+    border-radius: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.botoes > #btn-escuro {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border: 10px;
+    border-radius: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.botoes > #btn-laranja {
+    background-color: orange;
+    color: white;
+    padding: 10px;
+    border: 10px;
+    border-radius: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.botoes > #btn-rosa {
+    margin-top: 10px;
+    background-color: pink;
+    color: black;
+    padding: 10px;
+    border: 10px;
+    border-radius: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.botoes > #btn-roxo {
+    margin-top: 10px;
+    background-color: purple;
+    color: white;
+    padding: 10px;
+    border: 10px;
+    border-radius: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.botoes > #btn-cinza {
+    margin-top: 10px;
+    background-color: #e7e7e7;
+    color: black;
+    padding: 10px;
+    border: 10px;
+    border-radius: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
